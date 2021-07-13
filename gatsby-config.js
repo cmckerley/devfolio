@@ -9,7 +9,7 @@ module.exports = {
     // Description that goes under your name in main bio
     description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    author: `@McticulousC`,
     // Optional: Github account URL
     github: `https://github.com/cmckerley`,
     // Optional: LinkedIn account URL
@@ -40,36 +40,39 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'NCEES',
+        description: 'Systems Administrator, January 2020 - Present',
+        link: 'https://ncees.org',
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'NCEES',
+        description: 'Helpdesk Administrator, January 2008 - January 2020',
+        link: 'https://ncees.org',
       },
       {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Nova Gaming LLC',
+        description: 'Installation Technician, May 2007 - December 2007',
       },
+      {
+        name: 'Game Systems Inc.',
+        description: 'Field Service Technician, May 2005 - May 2007',
+      },      
     ],
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'html, CSS, Powershell',
       },
       {
         name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        description: 'MySQL, MS-SQL',
       },
       {
         name: 'Other',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Docker, Amazon Web Services (AWS), Azure',
       },
     ],
   },
