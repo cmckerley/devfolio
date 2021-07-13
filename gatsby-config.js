@@ -70,6 +70,11 @@ module.exports = {
         description: 'MySQL, MS-SQL',
       },
       {
+        name: 'Operating Systems',
+        description:
+          'VMware, Microsoft Windows, Ubuntu Linux, Mac OS Big Sur',
+      },
+      {
         name: 'Other',
         description:
           'Docker, Amazon Web Services (AWS), Azure',
