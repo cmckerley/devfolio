@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://vigilant-mahavira-7889e1.netlify.app/`,
+    siteUrl: `https://mckerley.net`,
     // Your Name
     name: 'Christopher McKerley',
     // Main Site Title
@@ -118,7 +118,7 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-postcss`,
-    `gatsby-plugin-feed`,
+    // `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
